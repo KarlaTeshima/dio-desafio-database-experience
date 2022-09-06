@@ -1,5 +1,7 @@
 # dio-desafio-database-experience
-Projeto sobre Git e GitHub
+Repositório criado para o desafio de Projeto.
 
-## links Ûteis
+
+
+## links Úteis
 [Sintaxe Básica para o Readme do GitHub](https://www.markdownguide.org/basic-syntax/)
